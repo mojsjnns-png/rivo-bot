@@ -1,0 +1,8 @@
+config.json
+database.sqlite
+db.sqlite
+*.bak
+node_modules/
+package-lock.json
+.env
+*.log
